@@ -29,7 +29,7 @@ X0 is the original picture
 
 ## Training Loss MSE "ELBO"
 
-![pic](assets/DDPM-loss1.png)
+![pic](assets/DDPM-output.png)
 
 Same as forward process => ![pic](assets/DDPM-loss2.png)
 
