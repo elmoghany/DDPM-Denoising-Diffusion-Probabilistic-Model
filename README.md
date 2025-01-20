@@ -24,6 +24,7 @@ X0 is the original picture
 
 ![pic](assets/DDPM-reverse-xt-1.png)
 
+![pic](assets/DDPM-reverse-xt-1-2.png)
 
 
 ## Training Loss MSE "ELBO"
