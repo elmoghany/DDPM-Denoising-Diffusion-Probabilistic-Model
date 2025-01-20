@@ -38,4 +38,7 @@ Same as forward process => ![pic](assets/DDPM-loss2.png)
 ![pic](assets/AFHQ-dataset.png)
 
 ## Results
+
+FID Score ~= 5
+
 ![pic](assets/DDPM-output.png)
