@@ -31,5 +31,5 @@ X0 is the original picture
 
 ![pic](assets/DDPM-loss1.png)
 
-![pic](assets/DDPM-loss2.png)
+Same as forward process => ![pic](assets/DDPM-loss2.png)
 
