@@ -42,3 +42,8 @@ Same as forward process => ![pic](assets/DDPM-loss2.png)
 FID Score ~= 5
 
 ![pic](assets/DDPM-output.png)
+
+### Disclaimer:
+1. All of the code is inside the Jupyter notebook file.
+2. Parts of the code are copied from unsolved assignments of Prof. Minhyuk Sung @ KAIST, a graduate course about diffusion models.
+3. Work done during KAUST internship with KAUST GPUs @ Prof. Mohamed Elhoseiny Lab, as part of the learnings to create a diffusion project.
