@@ -32,7 +32,3 @@ X0 is the original picture
 ![pic](assets/DDPM-loss1.png)
 
 Same as forward process => ![pic](assets/DDPM-loss2.png)
-
-1st term ϵ is the network current output
-
-2nd term ϵθ is the network predicted output multiplied by the equation of forward process 
