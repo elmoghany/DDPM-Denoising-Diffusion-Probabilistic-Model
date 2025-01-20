@@ -20,6 +20,8 @@ X0 is the original picture
 
 ![pic](assets/DDPM-reverse-mean.png)
 
+σ = √𝝱
+
 ![pic](assets/DDPM-reverse-xt-1.png)
 
 
