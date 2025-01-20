@@ -33,9 +33,9 @@ X0 is the original picture
 
 Same as forward process => ![pic](assets/DDPM-loss2.png)
 
-# Dataset used
+## Dataset used
 [AFHQ Animals Dataset](https://huggingface.co/datasets/huggan/AFHQ)
 ![pic](assets/AFHQ-dataset.png)
 
-# Results
+## Results
 ![pic](assets/task2_output_example.png)
