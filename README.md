@@ -14,7 +14,7 @@ X0 is the original picture
 ![pic](assets/DDPM-forward.png)
 
 ## Reverse Process
-ϵθ​(x_t​,t) is model’s output, predicted noise
+ϵθ​(x_t​,t) is model’s output. Network is trying to denoise and predict the image from the existing noise.
 
 ![pic](assets/DDPM-pre-forward.png)
 
