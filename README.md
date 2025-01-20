@@ -2,6 +2,7 @@
 
 ## Forward Process
 𝝱 in the range [0.0001, 0.02] and set the total timesteps T = 1000
+X0 is the original picture
 
 ![pic](assets/DDPM-pre-forward.png)
 
